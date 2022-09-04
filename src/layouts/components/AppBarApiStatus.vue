@@ -28,7 +28,7 @@
       <v-list-item link>
         <v-list-item-content>
           <v-list-item-title href="https://github.com/gael-gothuey" class="text-base">
-            <v-btn color="secondary" small href="TODO:Update_link!!">
+            <v-btn color="secondary" small href="https://deals-api.gothuey.dev/">
               <v-icon size="22"> {{ icons.mdiConnection }} </v-icon><span class="ms-2">API Documentation</span></v-btn
             >
           </v-list-item-title>

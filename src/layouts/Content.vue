@@ -33,11 +33,13 @@
         <div class="mx-6 d-flex justify-space-between">
           <span>
             &copy; 2022
-            <a href="https://deal.gothuey.dev" class="text-decoration-none" target="_blank">Swiss Deals</a></span
+            <a href="https://deals.gothuey.dev" class="text-decoration-none" target="_blank">Swiss Deals</a></span
           >
           <span class="d-sm-inline d-none">
-            <a href="TODO:Update link!" target="_blank" class="me-6 text--secondary text-decoration-none">Blog</a>
-            <a href="https://github.com/gael-gothuey" target="_blank" class="text--secondary text-decoration-none"
+            <a href="https://blog.gothuey.dev/" target="_blank" class="me-6 text--secondary text-decoration-none"
+              >Blog</a
+            >
+            <a href="https://github.com/gaelgoth" target="_blank" class="text--secondary text-decoration-none"
               >Made with 💖 By Gaël G.</a
             >
           </span>

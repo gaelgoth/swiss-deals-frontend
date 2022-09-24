@@ -11,7 +11,7 @@
           <v-spacer></v-spacer>
 
           <!-- Right Content -->
-          <a href="https://github.com/gael-gothuey" target="_blank" rel="nofollow">
+          <a href="https://github.com/gaelgoth/swiss-deals-frontend" target="_blank" rel="nofollow">
             <v-icon class="ms-6 me-4">
               {{ icons.mdiGithub }}
             </v-icon>

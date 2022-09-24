@@ -10,8 +10,8 @@
       <p class="text-4xl font-weight-semibold text--primary mb-2">Coming soon 🚀</p>
       <p class="mb-2">Work in progress...</p>
       <p class="text-sm">It will be possible to filter deals here</p>
-      <v-btn icon class="ms-1"
-        ><v-icon>{{ icons.mdiGithub }}</v-icon></v-btn
+      <v-btn icon class="ms-1" href="https://github.com/gaelgoth/swiss-deals-frontend" target="_blank" rel="nofollow"
+        ><v-icon href="https://github.com/gaelgoth/swiss-deals-frontend">{{ icons.mdiGithub }}</v-icon></v-btn
       >
       <div class="misc-character d-flex justify-center">
         <v-img max-width="350" src="@/assets/images/illustrations/soon.png"></v-img>

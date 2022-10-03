@@ -29,7 +29,7 @@
   "dependencies": {
     "@akp-13/greetings": "^1.0.4",
     "@mdi/js": "^7.0.96",
-    "@vue/composition-api": "^1.7.0",
+    "@vue/composition-api": "^1.7.1",
     "@vuetify/cli-plugin-utils": "^0.0.10",
     "apexcharts": "^3.35.5",
     "axios": "^0.27.2",
